@@ -1065,7 +1065,7 @@ ul.portfolio li.active {
 .statistics {
 	margin: 25px 0;
 	overflow: hidden;
-	color: #ffffff;
+	color: #333333;
 }
 .statistics.block .statistics-icon, .statistics.block .statistics-content {
 	width: auto;
